@@ -9,8 +9,10 @@ sudo apt-get install -y build-essential checkinstall libreadline-gplv2-dev  \
 
 mkdir Python37
 cd Python37
+
 wget https://www.python.org/ftp/python/3.7.7/Python-3.7.7.tar.xz
 tar xvf Python-3.7.7.tar.xz
+
 cd Python-3.7.7
 ./configure
 sudo make altinstall
