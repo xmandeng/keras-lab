@@ -1,6 +1,6 @@
 # keras-lab
 
-Steps for creating new virtual environment: [link](https://stackoverflow.com/questions/58104958/how-to-run-python-3-6-on-gcp-ai-platform-notebook)
+Steps for creating new virtual environment: [stackoverflow](https://stackoverflow.com/questions/58104958/how-to-run-python-3-6-on-gcp-ai-platform-notebook)
 
 ```bash
 sudo apt-get install -y build-essential checkinstall libreadline-gplv2-dev  \
